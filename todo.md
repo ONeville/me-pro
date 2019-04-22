@@ -26,3 +26,8 @@ https://stackoverflow.com/questions/47253364/integrate-aos-library-with-angular4
 
 https://github.com/michalsnik/aos/issues/383
      */
+
+     npm i bootstrap @fortawesome/fontawesome-free classlist.js hammerjs web-animations-js
+
+
+     Pr0D3s1.05
